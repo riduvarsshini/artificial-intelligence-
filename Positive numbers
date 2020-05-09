@@ -1,0 +1,11 @@
+list1 = [45,-67,17,8,-1,-7]
+
+# checking each number
+
+for num in list1:
+
+# checking conditions 
+
+if num>=0:
+
+print (num,end=" ")
